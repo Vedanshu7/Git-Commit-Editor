@@ -11,6 +11,7 @@ Warning: Use at your own risk. We are in no way responsible if your code breaks 
 ## Requirements
 - Please make sure you have added bash and git in your environment variable.
   - E.g.: C:\Program Files\Git\bin  
+- **Important**: After changing the date with this utility in your local git repository, you need to force push to your remote (e.g.: github). Force pushing may cause all your peers to pull from the repository, take care of that.
 
 #### Example:
 
