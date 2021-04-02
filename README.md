@@ -2,6 +2,8 @@
 
 ### A utility to change timestamp of any of your previous git commit.
 
+### For installation use Setup.exe 
+
 **TL;DR:** Use this to change time of your old git commits.
 
 Warning: Use at your own risk. We are in no way responsible if your code breaks :)
