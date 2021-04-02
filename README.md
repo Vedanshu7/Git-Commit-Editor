@@ -6,6 +6,10 @@
 
 Warning: Use at your own risk. We are in no way responsible if your code breaks :)
 
+## Requirements
+- Please make sure you have added bash and git in your environment variable.
+  - E.g.: C:\Program Files\Git\bin  
+
 #### Example:
 
 - Notice how **Commit 3** timestamp is changed.
